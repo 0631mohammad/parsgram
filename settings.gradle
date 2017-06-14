@@ -1,1 +1,1 @@
-include ':TMessagesProj'
+include ':TMessagesProj', ':pushe-lib-1.2.0'
